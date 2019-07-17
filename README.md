@@ -1,5 +1,4 @@
 # stepik-automation
-stepik - auto tests course
-https://stepik.org - learning course
-17.07.2019
-2 strochki
+Курс "Автоматизация тестирования с помощью Selenium и Python"
+https://stepik.org - сайт курса.
+Последняя правка - добавление файла с решением одной из задач, предложенных курсом в процессе обучения.
